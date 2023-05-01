@@ -5,17 +5,17 @@
 Welcome to our version of Snake game, this project was inspired by the classis "Snake Game".
 
 
-#Instalation
+# Instalation
 Clone this repository and have fun with your friends.
 
 
-#Description 
+# Description 
 This a simple game implementation of the classic Snake game using Java, using the Lanterna library for terminal-based graphics.
 
 
-#Usage
+# Usage
 Use the arrow keys to move the snake around the screen. The goal of the game is to eat as many food items as possible without colliding with the walls or the snake's own body.
 
 
-#Credits
+# Credits
 This game was created by [João Jardim](https://github.com/johnDoCodigo), [Lina Balciunaite](https://github.com/LittleBlueDot), [Rui Rajão](https://github.com/ruirajao) for [Mindera Code Academy](https://mindswap.academy/).
